@@ -1,0 +1,7 @@
+*.yml
+*Cache.txt
+Makefile
+WANTED*.jpg
+*.gif
+CMakeFiles
+cmake_install.cmake
