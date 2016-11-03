@@ -1,6 +1,8 @@
 ## About
 
-This is a photobooth to put your OSX webcam on a Harry Potter style wanted poster for Sirius Black.
+This is a photobooth to put your OSX webcam on a Harry Potter style wanted poster for Sirius Black:
+
+![sirius.jpg](sample.jpg)
 
 ## Running
 
